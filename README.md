@@ -2,6 +2,8 @@
 
 이 저장소는 한빛미디어에서 출간한 책인 [혼자 공부하는 머신러닝+딥러닝](https://tensorflow.blog/hg-mldl/)에 포함된 코드를 주피터 노트북으로 제공합니다.
 
+5-3까지 실습완료
+
 ![cover.png](cover.png)
 
 이 책을 위해 동영상 강의를 제공합니다. [텐서 ≈ 스터디 페이스북 그룹]()에 함께 참여하시거나 [한빛미디어 유튜브 채널](https://www.youtube.com/user/HanbitMedia93), 제 [개인 유튜브 채널](https://www.youtube.com/c/HaesunPark_ML/)에서 볼 수 있습니다.
